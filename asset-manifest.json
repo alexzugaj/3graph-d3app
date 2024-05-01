@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/3graph-d3app/static/css/main.f855e6bc.css",
+    "main.js": "/3graph-d3app/static/js/main.2823a16a.js",
+    "static/js/453.e756aff4.chunk.js": "/3graph-d3app/static/js/453.e756aff4.chunk.js",
+    "static/media/tips.csv": "/3graph-d3app/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/3graph-d3app/index.html",
+    "main.f855e6bc.css.map": "/3graph-d3app/static/css/main.f855e6bc.css.map",
+    "main.2823a16a.js.map": "/3graph-d3app/static/js/main.2823a16a.js.map",
+    "453.e756aff4.chunk.js.map": "/3graph-d3app/static/js/453.e756aff4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2823a16a.js"
+  ]
+}
